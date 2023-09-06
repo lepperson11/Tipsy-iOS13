@@ -64,7 +64,7 @@ class ViewController: UIViewController {
         case 0:
             print("0")
         default:
-            print("error")
+            print("errortgtgtg")
         }
     }
 }
