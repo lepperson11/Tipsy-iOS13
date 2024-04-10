@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         print(randomColorNumber)
         switch randomColorNumber {
         case 750...1000:
-            view.backgroundColor = UIColor.darkGray
+            view.backgroundColor = UIColor.white
         case 550...749:
             view.backgroundColor = UIColor.black
         case 400...549:
